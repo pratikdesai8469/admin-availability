@@ -19,9 +19,11 @@ The project is hosted on the master branch.
 
 6) php artisan migrate
 
-7) php artisan db:seed --class=AdminUserSeeder
+7) php artisan db:seed --class=AdminUserSeeder (you can regeister new admin also from system)
 
 8) npm run dev
 
 9) php artisan serve
+
+10) Please refer to the to the web.php file; there is mentioned admin and fronted route.
 
